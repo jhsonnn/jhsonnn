@@ -5,6 +5,7 @@
 - 📫 How to reach me ... jihyeongson13@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Velog ... https://velog.io/@jhsonnn/posts
 
 <!---
 jhsonnn/jhsonnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
