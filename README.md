@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhsonnn
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... something challenging
 - 🌱 I’m currently learning ... Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jihyeongson13@gmail.com
