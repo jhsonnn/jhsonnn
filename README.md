@@ -5,7 +5,9 @@ You can click the Preview link to take a look at your changes.
 <h2>🚀 Skills</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> -->
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
+  
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
