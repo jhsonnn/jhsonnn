@@ -28,7 +28,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="reactrouter">
   <img src="https://img.shields.io/badge/Axios-9D4CCC?style=plastic&logo=axios&logoColor=white" alt="axios">
   <img src="https://img.shields.io/badge/Yarn-3998C2?style=plastic&logo=yarn&logoColor=white" alt="yarn">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="reactrouter">
   <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/Vite-8C71F0?style=plastic&logo=vite&logoColor=white" alt="vite">
   <img src="https://img.shields.io/badge/React--Query-F73F51?style=plastic&logo=reactquery&logoColor=white" alt="reactquery">
