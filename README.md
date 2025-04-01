@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=plastic&logo=sass&logoColor=white" alt="scss">
   <img src="https://img.shields.io/badge/Vanilla--Extract-FFB6C1?style=plastic&logo=Vanilla-Extract&logoColor=white" alt="vanillaextract">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="tailwindcss">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white" alt="mui">
@@ -31,6 +32,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/Vite-8C71F0?style=plastic&logo=vite&logoColor=white" alt="vite">
   <img src="https://img.shields.io/badge/React--Query-F73F51?style=plastic&logo=reactquery&logoColor=white" alt="reactquery">
+  <img src="https://img.shields.io/badge/Redux-7248B6?style=plastic&logo=redux&logoColor=white" alt="redux">
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=plastic&logo=react&logoColor=white" alt="contextapi">
 </p>
 <h4>☁ Cloud</h4>
 <p>
