@@ -5,11 +5,9 @@ You can click the Preview link to take a look at your changes.
 <h4>🚀 Skills</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5"> -->
   <img src="https://img.shields.io/badge/CSS-239120?style=plastic&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
-</p>
-<p>
+<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3"> -->
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=plastic&logo=sass&logoColor=white" alt="scss">
   <img src="https://img.shields.io/badge/Vanilla--Extract-FFB6C1?style=plastic&logo=Vanilla-Extract&logoColor=white" alt="vanillaextract">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="tailwindcss">
@@ -37,6 +35,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/Vite-8C71F0?style=plastic&logo=vite&logoColor=white" alt="vite">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white" alt="jest">
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=plastic&logo=testing-library&logoColor=white" alt="reacttestinglibrary">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=plastic&logo=storybook&logoColor=white" alt="storybook">
+</p>
+
 <h4>☁ Cloud</h4>
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="vercel">
